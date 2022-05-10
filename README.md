@@ -31,7 +31,7 @@ Another important aspect of communicating your brand on the Internet as a develo
 
 <h2 id="command-line">Know Your Tool</h2>
 
-Being able to code well requires you to be able to use your machine well. We're going to start with setting up your machine and then move into learning a few tools that are staples to web development. If you're on Windows your setup instructions are [here](https://github.com/pixel2code/PreWork/blob/main/Windows-Tooling.md), MacOS users look [here](https://github.com/pixel2code/PreWork/blob/main/MacOS-Tooling.md).
+Being able to code well requires you to be able to use your machine well. We're going to start with setting up your machine and then move into learning a few tools that are staples to web development. If you're on Windows your setup instructions are [here](https://github.com/pixel2code/PreWork/blob/main/Windows-tooling.md), MacOS users look [here](https://github.com/pixel2code/PreWork/blob/main/MacOS-Tooling.md).
 
 ### Code Editor
 
